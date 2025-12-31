@@ -17,6 +17,9 @@ This system helps maintain records efficiently, reduce paperwork, and improve ov
 >To ensure quick access to departmental information
 
 
+---
+
+
 🛠️ Technologies Used
 
 Programming Language: Java
@@ -29,6 +32,7 @@ IDE: NetBeans
 
 JDBC: For database connectivity
 
+---
 
 ⚙️ System Features
 
@@ -47,3 +51,18 @@ JDBC: For database connectivity
 🔍 Search & Filter Records
 
 💾 Secure Database Storage
+
+---
+🧩 System Modules
+
+1. Login Module
+
+2. Student Management Module
+
+3. Teacher Management Module
+
+4. Staff Management Module
+
+5. Course & Subject Module
+
+6. Database Management Module
