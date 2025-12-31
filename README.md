@@ -1,12 +1,12 @@
 # CSE-office-management-system
-📌 Project Overview
+## 📌 Project Overview
 
 The CSE Office Management System is a Java-based desktop application designed to automate and manage the administrative activities of a Computer Science and Engineering (CSE) department.
 This system helps maintain records efficiently, reduce paperwork, and improve overall office productivity.
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 >To digitize CSE office administrative operations
 
@@ -20,7 +20,7 @@ This system helps maintain records efficiently, reduce paperwork, and improve ov
 ---
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Programming Language: Java
 
@@ -34,7 +34,7 @@ JDBC: For database connectivity
 
 ---
 
-⚙️ System Features
+## ⚙️ System Features
 
 🔐 Admin Login System
 
@@ -53,7 +53,7 @@ JDBC: For database connectivity
 💾 Secure Database Storage
 
 ---
-🧩 System Modules
+## 🧩 System Modules
 
 1. Login Module
 
@@ -68,4 +68,20 @@ JDBC: For database connectivity
 6. Database Management Module
 
 ---
+## 📂 Project Structure
+```bash
 
+CSE-Office-Management-System/
+│
+├── src/
+│ ├── login/ # Login and authentication classes
+│ ├── student/ # Student management module
+│ ├── teacher/ # Teacher management module
+│ ├── staff/ # Office staff management
+│ ├── database/ # Database connection and queries
+│ └── main/ # Main application entry point
+│
+├── resources/ # Images, icons, configuration files
+├── README.md # Project documentation
+└── database.sql # Database schema
+```
