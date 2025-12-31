@@ -66,3 +66,21 @@ JDBC: For database connectivity
 5. Course & Subject Module
 
 6. Database Management Module
+
+---
+📂 Project Structure
+
+CSE-Office-Management-System/
+│
+├── src/
+│   ├── login/
+│   ├── student/
+│   ├── teacher/
+│   ├── staff/
+│   ├── database/
+│   └── main/
+│
+├── resources/
+├── README.md
+└── database.sql
+
