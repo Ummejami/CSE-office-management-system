@@ -14,6 +14,7 @@ This system helps maintain records efficiently, reduce paperwork, and improve ov
 
 >To ensure quick access to departmental information
 
+
 🛠️ Technologies Used
 
 Programming Language: Java
@@ -25,6 +26,7 @@ Database: MySQL
 IDE: NetBeans 
 
 JDBC: For database connectivity
+
 
 ⚙️ System Features
 
